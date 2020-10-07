@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="adrenalineRush_white.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 264.58334 132.29166"
+   height="500"
+   width="1000"
+   inkscape:export-filename="/home/yuvi/Desktop/workspace/workspace/adrenalineRush.png"
+   inkscape:export-xdpi="95.807991"
+   inkscape:export-ydpi="95.807991">
+  <defs
+     id="defs2">
+    <rect
+       x="1334.4769"
+       y="93.8797"
+       width="437.42606"
+       height="24.93667"
+       id="rect27" />
+    <rect
+       id="rect30"
+       height="530.85339"
+       width="431.63257"
+       y="-671.28571"
+       x="1055.8909" />
+    <rect
+       id="rect24"
+       height="419.02939"
+       width="52.570343"
+       y="161.21727"
+       x="592.9519" />
+    <rect
+       id="rect18"
+       height="36.091892"
+       width="101.52848"
+       y="89.154877"
+       x="151.32576" />
+    <rect
+       id="rect12"
+       height="112.12714"
+       width="244.68604"
+       y="55.495678"
+       x="39.110939" />
+    <rect
+       x="39.110939"
+       y="55.495678"
+       width="244.68604"
+       height="112.12714"
+       id="rect38" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter776">
+      <feFlood
+         flood-opacity="0.76000000000000001"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood766" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite768" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="17.9406"
+         result="blur"
+         id="feGaussianBlur770" />
+      <feOffset
+         dx="18.1919"
+         dy="12.3574"
+         result="offset"
+         id="feOffset772" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="fbSourceGraphic"
+         id="feComposite774" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix778" />
+      <feFlood
+         id="feFlood780"
+         flood-opacity="0.8"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite782"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur784"
+         in="composite1"
+         stdDeviation="17.9406"
+         result="blur" />
+      <feOffset
+         id="feOffset786"
+         dx="18.1919"
+         dy="12.3574"
+         result="offset" />
+      <feComposite
+         in2="offset"
+         id="feComposite788"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter1307">
+      <feFlood
+         flood-opacity="0.847059"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood1297" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite1299" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6.02232"
+         result="blur"
+         id="feGaussianBlur1301" />
+      <feOffset
+         dx="8.57091"
+         dy="20.5344"
+         result="offset"
+         id="feOffset1303" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite1305" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:window-height="825"
+     inkscape:window-width="1600"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="287.36576"
+     inkscape:cx="665.8871"
+     inkscape:zoom="0.35"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     units="px" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <text
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect18);fill:#000000;fill-opacity:1;stroke:none;"
+       id="text16"
+       xml:space="preserve" />
+    <text
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect24);fill:#000000;fill-opacity:1;stroke:none;"
+       id="text22"
+       xml:space="preserve" />
+    <text
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect30);fill:#000000;fill-opacity:1;stroke:none;"
+       id="text28"
+       xml:space="preserve" />
+    <text
+       xml:space="preserve"
+       id="text25"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect27);fill:#000000;fill-opacity:1;stroke:none;" />
+    <text
+       transform="matrix(1.9452407,0,0,1.9456035,-45.725543,-78.940104)"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect12);fill:#ffffff;fill-opacity:1;stroke:none;"
+       id="text10"
+       xml:space="preserve"><tspan
+         x="39.111328"
+         y="66.490769"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Depressionist 3 Revisited';-inkscape-font-specification:'Depressionist 3 Revisited';fill:#ffffff">Adrenaline 
+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text36"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect38);fill:#ffffff;fill-opacity:1;stroke:none;"
+       transform="matrix(5.9495729,0,0,5.9506825,-220.67489,-283.80997)"><tspan
+         x="39.111328"
+         y="66.490769"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Depressionist 3 Revisited';-inkscape-font-specification:'Depressionist 3 Revisited';fill:#ffffff">RUSH</tspan></tspan></text>
+    <g
+       id="g86"
+       transform="matrix(0.22435459,0,0,0.22439643,149.95785,10.906154)"
+       style="fill:#ff6600;filter:url(#filter1307)">
+      <path
+         id="path31"
+         d="M 362.676,192 H 293.77 L 372.426,14.933 C 374.782,9.534 372.316,3.247 366.917,0.89 365.579,0.306 364.136,0.003 362.677,0 H 149.343 c -5.891,-0.018 -10.681,4.743 -10.699,10.634 -0.001,0.289 0.01,0.577 0.032,0.865 l 21.333,277.333 c 0.435,5.564 5.086,9.852 10.667,9.835 H 203.7 L 224.074,502.4 c 0.59,5.861 5.82,10.135 11.682,9.544 3.86,-0.389 7.205,-2.843 8.734,-6.408 l 128,-298.667 c 2.321,-5.415 -0.187,-11.685 -5.601,-14.006 -1.332,-0.571 -2.765,-0.864 -4.213,-0.863 z"
+         style="fill:#ff6600" />
+      <g
+         id="g33"
+         style="fill:#ff6600" />
+      <g
+         id="g35"
+         style="fill:#ff6600" />
+      <g
+         id="g37"
+         style="fill:#ff6600" />
+      <g
+         id="g39"
+         style="fill:#ff6600" />
+      <g
+         id="g41"
+         style="fill:#ff6600" />
+      <g
+         id="g43"
+         style="fill:#ff6600" />
+      <g
+         id="g45"
+         style="fill:#ff6600" />
+      <g
+         id="g47"
+         style="fill:#ff6600" />
+      <g
+         id="g49"
+         style="fill:#ff6600" />
+      <g
+         id="g51"
+         style="fill:#ff6600" />
+      <g
+         id="g53"
+         style="fill:#ff6600" />
+      <g
+         id="g55"
+         style="fill:#ff6600" />
+      <g
+         id="g57"
+         style="fill:#ff6600" />
+      <g
+         id="g59"
+         style="fill:#ff6600" />
+      <g
+         id="g61"
+         style="fill:#ff6600" />
+    </g>
+  </g>
+</svg>
